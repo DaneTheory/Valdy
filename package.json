@@ -1,0 +1,26 @@
+{
+  "name": "valdy",
+  "version": "1.0.0",
+  "description": "Valdy: The swiss-army knife module for handling all your validation needs. Types, arguments, input, output, unicorns. Valdy does is all. Functional by default. Easily customize your own validator per need, then export for easy re-use across your app.",
+  "private": false,
+  "license": "MIT",
+  "repository": "github:danetheory/valdy",
+  "author": "Branden Dane <DaneTheory@gmail.com> (https://github.com/danetheory)",
+  "homepage": "https://DaneTheory.com",
+  "keywords": [
+    "valdy",
+    "type",
+    "types",
+    "arguments",
+    "validation",
+    "validate",
+    "danetheory"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "latest"
+  }
+}
